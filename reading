@@ -1,0 +1,4 @@
+### Rogue packet problem.
+TLS using TCP will cause Rogue packet problem (not with UDP).
+TCP is layer 4
+> retransmission and "timing out".
